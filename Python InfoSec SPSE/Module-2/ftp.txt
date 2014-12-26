@@ -1,0 +1,11 @@
+ppc.uk
+ftp.hq.nasa.gov
+ftp.cs.tu-berlin.de
+ftp.isi.edu
+ftp.sas.com
+ftp.uv.es
+ftp.unidata.ucar.edu
+ftp.soest.hawaii.edu
+ling.upenn.edu
+idc18.seu.edu.cn
+ftp.swfwmd.state.fl.us
