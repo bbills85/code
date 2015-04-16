@@ -1,0 +1,21 @@
+PID,Process,Path,Services
+540,smss,\SystemRoot\System32\smss.exe,[]
+604,csrss,\??\C:\WINDOWS\system32\csrss.exe,[]
+628,winlogon,\??\C:\WINDOWS\system32\winlogon.exe,[]
+672,services,C:\WINDOWS\system32\services.exe,"['Eventlog', 'PlugPlay']"
+684,lsass,C:\WINDOWS\system32\lsass.exe,"['PolicyAgent', 'ProtectedStorage', 'SamSs']"
+840,vmacthlp,C:\Program Files\VMware\VMware Tools\vmacthlp.exe,['VMware Physical Disk Helper Service']
+880,svchost,C:\WINDOWS\system32\svchost.exe,['RpcSs']
+980,svchost,C:\WINDOWS\System32\svchost.exe,"['AudioSrv', 'Browser', 'CryptSvc', 'Dhcp', 'dmserver', 'ERSvc', 'EventSystem', 'FastUserSwitchingCompatibility', 'helpsvc', 'lanmanserver', 'lanmanworkstation', 'Messenger', 'Netman', 'Nla', 'Schedule', 'seclogon', 'SENS', 'ShellHWDetection', 'srservice', 'TermService', 'Themes', 'TrkWks', 'uploadmgr', 'W32Time', 'winmgmt', 'WmdmPmSp', 'wuauserv', 'WZCSVC']"
+1136,svchost,C:\WINDOWS\System32\svchost.exe,['Dnscache']
+1168,svchost,C:\WINDOWS\System32\svchost.exe,"['LmHosts', 'RemoteRegistry', 'SSDPSRV', 'WebClient']"
+1316,spoolsv,C:\WINDOWS\system32\spoolsv.exe,['Spooler']
+1508,vmtoolsd,C:\Program Files\VMware\VMware Tools\vmtoolsd.exe,['VMTools']
+1840,Explorer,C:\WINDOWS\Explorer.EXE,[]
+180,vmtoolsd,C:\Program Files\VMware\VMware Tools\vmtoolsd.exe,[]
+192,msmsgs,C:\Program Files\Messenger\msmsgs.exe,[]
+128,wpabaln,C:\WINDOWS\System32\wpabaln.exe,[]
+260,Server-Strcpy,C:\Documents and Settings\Administrator\Desktop\Server-Strcpy.exe,[]
+1076,pythonw,C:\Python27\pythonw.exe,[]
+1556,pythonw,C:\Python27\pythonw.exe,[]
+968,iexplore,C:\Program Files\Internet Explorer\iexplore.exe,[]
